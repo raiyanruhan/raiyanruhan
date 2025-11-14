@@ -1,4 +1,4 @@
-![A simple green checkmark success indicator GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlkZ2NhOTIwcXlmaXhidmN4MGo0aThybTZ0NDJmcGxoNWQyb2IxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BUbMgQBShZOcMPohgn/giphy.gif)
+![A simple green checkmark success indicator GIF](https://raw.githubusercontent.com/raiyanruhan/raiyanruhan/refs/heads/main/giphy.gif)
 
 Hey there, I'm **Raiyan Bin Rashid**, a developer who works at the intersection of smart systems and real hardware. I design and build everything from **AI-powered humanoid robots** and **autonomous IoT systems** to **full-stack web applications** and **real-time embedded solutions**. My approach is straightforward: rapid iteration, a strong technical focus, and turning ambitious ideas into working realities.
 <details>
