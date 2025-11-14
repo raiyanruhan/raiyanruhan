@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raiyanruhan/raiyanruhan/refs/heads/main/giphy.gif" alt="Description of your GIF" width="150"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhlM3hoc3N5NTVxdTVkYnU4MHhiY2xhczgwcmRzbzkyZzNzNDk1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tve236HJ6pbPqGge9w/giphy.gif" alt="Description of your GIF" width="150"/>
 </p>
 
 Hey there, I'm **Raiyan Bin Rashid**, a developer who works at the intersection of smart systems and real hardware. I design and build everything from **AI-powered humanoid robots** and **autonomous IoT systems** to **full-stack web applications** and **real-time embedded solutions**. My approach is straightforward: rapid iteration, a strong technical focus, and turning ambitious ideas into working realities.
