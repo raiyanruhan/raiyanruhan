@@ -1,6 +1,49 @@
-# About Me
+Hey there, I'm **Raiyan Bin Rashid**, a developer who works at the intersection of smart systems and real hardware. I design and build everything from **AI-powered humanoid robots** and **autonomous IoT systems** to **full-stack web applications** and **real-time embedded solutions**. My approach is straightforward: rapid iteration, a strong technical focus, and turning ambitious ideas into working realities.
+<details>
+<summary>
+<style>
+  .aboutme-button {
+    display: inline-block;
+    background: #323232;
+    color: #f8f8f7;
+    font-size: 1em;
+    font-weight: 500;
+    padding: 7px 12px;
+    border: darkblue;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(160,120,80,0.08);
+    cursor: not-allowed;
+    margin-bottom: 0.1px;
+    outline: none;
+    overflow: hidden;
+    pointer-events: none; /* Disable interactions */
+  }
+  .aboutme-button:hover,
+  .aboutme-button:focus {}
+  .aboutme-button.clicked {}
+  @keyframes button-bounce {
+    0% { transform: scale(1);}
+    35% { transform: scale(0.94);}
+    90% { transform: scale(1.01);}
+    100% { transform: scale(1);}
+  }
+  .aboutme-indicator {
+    display: inline-block;
+    margin-left: 14px;
+    font-size: 1em;
+    color: #ad7309;
+    font-weight: 700;
+    opacity: 0;
+    pointer-events: none;
+  }
+  .aboutme-button.clicked + .aboutme-indicator {}
+</style>
 
-I'm **Raiyan Bin Rashid**, a developer who works at the crossroads of intelligent systems and real hardware. I design and build everything from **AI-powered humanoid robots** and **autonomous IoT systems** to **full-stack web applications** and **real-time embedded solutions**. My approach is straightforward: rapid iteration, a strong technical focus, and turning ambitious ideas into working realities.
+<button class="aboutme-button" id="aboutmeRevealBtn" type="button" disabled>
+    More About me
+</button>
+</summary>
+
 
 ## What I'm Building
 
@@ -25,7 +68,15 @@ I'm always learning and improving:
 - **Efficient task management** for live-control pipelines
 - Modern web stack: **Next.js, React, TypeScript, SQLite**
 
-## Ask Me About
+### Fun Fact
+
+*I built a fully functional humanoid robot in one month*, and I can spend hours fine-tuning a single circuit layout until it’s just right.
+
+</details>
+
+---
+
+## You Can Ask Me About
 
 - Robotics architecture and AI integration
 - Arduino, ESP32, and embedded systems design
@@ -34,9 +85,6 @@ I'm always learning and improving:
 - Desktop applications and local-first software
 - Simplifying complex technical concepts
 
-## Fun Fact
-
-**I built a fully functional humanoid robot in one month**, and I can spend hours fine-tuning a single circuit layout until it’s just right.
 ---
 
 ## Connect With Me
@@ -63,19 +111,14 @@ I'm always learning and improving:
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=raiyanruhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=raiyanruhan&theme=dracula&hide_border=false)
+---
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raiyanruhan&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+---
+---
+## GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=raiyanruhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=raiyanruhan&icon=0&color=0)](https://visitcount.itsvg.in)
