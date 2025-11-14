@@ -1,45 +1,7 @@
 Hey there, I'm **Raiyan Bin Rashid**, a developer who works at the intersection of smart systems and real hardware. I design and build everything from **AI-powered humanoid robots** and **autonomous IoT systems** to **full-stack web applications** and **real-time embedded solutions**. My approach is straightforward: rapid iteration, a strong technical focus, and turning ambitious ideas into working realities.
 <details>
 <summary>
-<style>
-  .aboutme-button {
-    display: inline-block;
-    background: #323232;
-    color: #f8f8f7;
-    font-size: 1em;
-    font-weight: 500;
-    padding: 7px 12px;
-    border: darkblue;
-    border-radius: 10px;
-    box-shadow: 0 4px 20px rgba(160,120,80,0.08);
-    cursor: not-allowed;
-    margin-bottom: 0.1px;
-    outline: none;
-    overflow: hidden;
-    pointer-events: none; /* Disable interactions */
-  }
-  .aboutme-button:hover,
-  .aboutme-button:focus {}
-  .aboutme-button.clicked {}
-  @keyframes button-bounce {
-    0% { transform: scale(1);}
-    35% { transform: scale(0.94);}
-    90% { transform: scale(1.01);}
-    100% { transform: scale(1);}
-  }
-  .aboutme-indicator {
-    display: inline-block;
-    margin-left: 14px;
-    font-size: 1em;
-    color: #ad7309;
-    font-weight: 700;
-    opacity: 0;
-    pointer-events: none;
-  }
-  .aboutme-button.clicked + .aboutme-indicator {}
-</style>
-
-<button class="aboutme-button" id="aboutmeRevealBtn" type="button" disabled>
+<button type="button" disabled>
     More About me
 </button>
 </summary>
