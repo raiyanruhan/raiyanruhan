@@ -1,4 +1,6 @@
-![A simple green checkmark success indicator GIF](https://raw.githubusercontent.com/raiyanruhan/raiyanruhan/refs/heads/main/giphy.gif)
+<center>
+  <img src="https://raw.githubusercontent.com/raiyanruhan/raiyanruhan/refs/heads/main/giphy.gif" alt="Description of your GIF" width="150"/>
+</center>
 
 Hey there, I'm **Raiyan Bin Rashid**, a developer who works at the intersection of smart systems and real hardware. I design and build everything from **AI-powered humanoid robots** and **autonomous IoT systems** to **full-stack web applications** and **real-time embedded solutions**. My approach is straightforward: rapid iteration, a strong technical focus, and turning ambitious ideas into working realities.
 <details>
