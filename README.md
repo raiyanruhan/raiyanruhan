@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="256" height="498" alt="image" src="https://github.com/user-attachments/assets/983c7034-4c30-462b-aaf9-76b5f103f9bb" />
+ <img width="256" height="498" alt="image" src="https://github.com/user-attachments/assets/983c7034-4c30-462b-aaf9-76b5f103f9bb" />
 " alt="Description of your GIF" width="150"/>
 </p>
 
