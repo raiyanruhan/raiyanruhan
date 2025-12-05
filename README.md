@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" alt="GIF" src="[https://c.tenor.com/1CnFSvfLeLsAAAAC/tenor.gif](https://i.giphy.com/26tn33aiTi1jkl6H6.webp)" />
+  <img width="150" alt="GIF" src="https://i.giphy.com/26tn33aiTi1jkl6H6.webp" />
 </p>
 
 Hey there, I'm **Raiyan Bin Rashid**, a developer who works at the intersection of smart systems and real hardware. I design and build everything from **AI-powered humanoid robots** and **autonomous IoT systems** to **full-stack web applications** and **real-time embedded solutions**. My approach is straightforward: rapid iteration, a strong technical focus, and turning ambitious ideas into working realities.
